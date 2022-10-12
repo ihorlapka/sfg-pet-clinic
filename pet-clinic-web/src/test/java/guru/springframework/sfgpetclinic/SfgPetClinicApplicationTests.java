@@ -16,6 +16,7 @@ class SfgPetClinicApplicationTests {
 
         log.info("some comment1");
         log.info("some comment2");
+        log.info("some comment3");
     }
 
 }
