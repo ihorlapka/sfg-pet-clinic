@@ -15,6 +15,7 @@ class SfgPetClinicApplicationTests {
     void contextLoads() {
 
         log.info("some comment1");
+        log.info("some comment2");
     }
 
 }
