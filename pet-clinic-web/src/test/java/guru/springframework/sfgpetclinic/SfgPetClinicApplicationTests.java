@@ -12,6 +12,7 @@ class SfgPetClinicApplicationTests {
     @Test
     void contextLoads() {
 
+        System.out.println("some comment");
     }
 
 }
